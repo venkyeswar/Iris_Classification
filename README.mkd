@@ -29,14 +29,14 @@ This project implements an Artificial Neural Network (ANN) to classify the Iris 
 
 ## Live Application
 
-You can access the live application [here](https://ann-iris-classifier.onrender.com/).
+You can access the live application [here](https://iris-classification-project.onrender.com/).
 
 ## Setup Instructions
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/venkyeswar/DataScience_Projects.git
-   cd DEEP_Learning_Projects/ANN_Projects/IRIS_CLASSIFICATION_PROJECT
+   git clone https://github.com/venkyeswar/Iris_Classification.git
+   cd Iris_Classification
    ```
 
 2. **Create a Virtual Environment**
@@ -81,7 +81,4 @@ You can access the live application [here](https://ann-iris-classifier.onrender.
 - Click on the "Predict" button to see the classification result based on the ANN model.
 - You can make new predictions by clicking the "New Prediction" button.
 
-## Acknowledgments
 
-- Iris dataset from the UCI Machine Learning Repository.
-- Thanks to the authors of the libraries used in this project.
