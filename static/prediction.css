@@ -2,3 +2,15 @@
     max-width:30rem;
 
 }
+.card,.card-body{
+    background-color:rgba(0, 0, 0, 0.598);
+}
+h4{
+    color:rgb(239, 226, 226);
+}
+
+li{
+    color:rgb(13, 3, 3);
+    background-color:red;
+
+}
